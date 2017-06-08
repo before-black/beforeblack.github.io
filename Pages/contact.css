@@ -1,0 +1,27 @@
+
+
+.links {
+    display: inline-block;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    position: relative;
+    z-index: 999;
+    margin: 0px;
+    left: 0;
+    top: 350px;
+}
+
+.info {
+    font-family: 'Nixie One', cursive;
+    display: inline-block;
+    text-align: center;
+    height: auto;
+    width: 100%;
+    position: static;
+    z-index: auto;
+}
+
+br {
+        line-height: 0.1em;
+     }
